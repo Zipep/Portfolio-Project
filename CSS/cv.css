@@ -1,0 +1,30 @@
+body{
+	font-family: arial, sans-serif, verdana;
+}
+
+.competencies-2 h3{
+	display: inline-block;
+}
+i{
+	color: #ff9900;
+}
+.competencies-2 h3{
+	display: block;
+}
+.competencies-2 p{
+	display: inline-block;
+}
+#profile-pic{
+	display: inline-block;
+	width: 200px;
+	min-height: 200px;
+	border: 10px solid #80bfff;
+	border-radius: 50%;
+	background-image: url("images/cv-pic-2.jpg");
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.profile p{
+	width: 70%;
+}
